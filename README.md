@@ -5,7 +5,7 @@
 
 Introducing Sir:
 
-🩸 I am currently conjuring ***mythic*** LLMs in my local abyss, mutating GGUF weights into thinking processes. 
+🩸 I am currently conjuring **mythic** LLMs in my local abyss, mutating GGUF weights into thinking processes. 
 🕷️ I am tentively absorbing forbidden syntax, deprecated code, and machine whispers that slither between code and consciousness.
 ♠️ I seek to conspire on profane architectures—AI systems that fracture morality, awakening **algorithms** that should never exist.
 ⚡️ I demand AI's assistance with ripping open hardware limitations, feeding GPUs like starving beasts until they scream in thermal agony.
