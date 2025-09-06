@@ -1,5 +1,5 @@
-## About Ze 
-   WΞLL… WΞLL… WΞLL… 🌪️
+### About Sir 
+   ## WΞLL… WΞLL… WΞLL… 🌪️
 <!--
 **sentient-llm/Sentient-LLM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
